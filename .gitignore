@@ -1,0 +1,6 @@
+# Project files/folders
+data/
+__pycache__
+
+# Jupyter Notebook
+.ipynb_checkpoints/
