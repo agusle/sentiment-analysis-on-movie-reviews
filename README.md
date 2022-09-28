@@ -26,7 +26,7 @@
 ## 📖 About
 - **Problem**: Movie reviews help users decide if the movie is worth their time. A summary of all the reviews for a movie can help users make this decision without wasting time reading all the reviews. Movie rating websites are often used by critics to post reviews and rate movies, which helps viewers decide if the movie is worth watching. Sentiment analysis of a movie can determine the attitude of critics based on their reviews and rate them as positive or negative. 
 
-- **Industries**: film industry, streaming services, movie-rating websites,etc.
+- **Industries**: film industry, streaming services, movie-rating websites, etc.
 
 - **Solution**:  Natural Language Processing (NLP) is a subfield of machine learning that allows computers to understand, analyze, manipulate and generate human language. Understanding whether a review is positive or negative can be automated as the machine learns, through this subfield mentioned above, by training and testing different data sources.  
 Classification is a data mining methodology that assigns classes to a collection of data to help make more accurate predictions and analysis.  
